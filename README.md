@@ -1,7 +1,7 @@
 
 # Chat App with Firebase
 
-![App Demo](![image](https://github.com/abdurakhmonovsharif/chat_firebase/assets/115024917/2574f2c4-ebab-4d14-824e-ceb2647c3975)
+![App Demo](![image](https://github.com/abdurakhmonovsharif/chat_firebase/assets/115024917/2cfc765c-c7e6-40b4-842b-1394d4616c2a)
 )
 
 A real-time chat application built using React, Tailwind CSS, and Firebase. This app allows users to send messages, images, videos, music links, and more in a seamless and interactive way.
@@ -16,13 +16,12 @@ A real-time chat application built using React, Tailwind CSS, and Firebase. This
 
 ## Screenshots
 
-![Screenshot 1](![image](https://github.com/abdurakhmonovsharif/chat_firebase/assets/115024917/acc554b9-8ff4-4aa3-bea0-f49e6158ae19)
-)
-![Screenshot 2](![image](https://github.com/abdurakhmonovsharif/chat_firebase/assets/115024917/1fcadb01-06a1-4877-b831-15bfbfb1e8fd)
-)
-![Screenshot 3](![image](https://github.com/abdurakhmonovsharif/chat_firebase/assets/115024917/892dae05-a924-4b98-a44a-0f8340a15cca)))
-![Screenshot 4](![Screenshot 2](![image](https://github.com/abdurakhmonovsharif/chat_firebase/assets/115024917/1fcadb01-06a1-4877-b831-15bfbfb1e8fd))
-)
+![image](https://github.com/abdurakhmonovsharif/chat_firebase/assets/115024917/8fd5655c-0884-48ea-9dbb-be9c9e12da3e)
+![image](https://github.com/abdurakhmonovsharif/chat_firebase/assets/115024917/4cd08a24-3413-41f6-8129-50902609d18a)
+![image](https://github.com/abdurakhmonovsharif/chat_firebase/assets/115024917/be10ae40-28db-4b57-a103-6248c1f084d3)
+![image](https://github.com/abdurakhmonovsharif/chat_firebase/assets/115024917/71f41a7c-23ea-40a7-a9bd-8124863eb542)
+
+
 ## Live Demo
 
 Check out the live demo of the app [here](https://test-chat-abdurakhmonov.netlify.app).
