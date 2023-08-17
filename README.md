@@ -1,8 +1,7 @@
 
 # Chat App with Firebase
 
-![App Demo](![image](https://github.com/abdurakhmonovsharif/chat_firebase/assets/115024917/2cfc765c-c7e6-40b4-842b-1394d4616c2a)
-)
+![image](https://github.com/abdurakhmonovsharif/chat_firebase/assets/115024917/2cfc765c-c7e6-40b4-842b-1394d4616c2a)
 
 A real-time chat application built using React, Tailwind CSS, and Firebase. This app allows users to send messages, images, videos, music links, and more in a seamless and interactive way.
 
