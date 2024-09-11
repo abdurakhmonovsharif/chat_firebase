@@ -1,8 +1,5 @@
 
 Abdurakhmonov, [28 авг. 2024 в 16:46]
-https://docs.google.com/file/d/1G3Jwdgb762ilkwObBNYrj3ClidQ0cL64/edit?usp=docslist_api&filetype=msword
-https://docs.google.com/file/d/1PXC3i7qa-Hc5A7uQVTD4bCGcG4_wot7C/edit?usp=docslist_api&filetype=msword
-https://docs.google.com/file/d/1SVQUzcrhvStzvh0YEezZBwaMgueJ0CVF/edit?usp=docslist_api&filetype=msword
 
 
 # Chat App with Firebase
